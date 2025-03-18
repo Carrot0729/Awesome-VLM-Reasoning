@@ -15,7 +15,7 @@
     <li><a href="#Benchmarks">Benchmarks</a></li>
     <li><a href="#Reinforce Learn">Reinforce Learning</a>
       <ul>
-        <li><a href="#Based On DPO">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
+        <li><a href="##Based On DPO">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
         <li><a href="#Based On PPO">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
         <li><a href="#Based On RLHF">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
         <li><a href="#Others-RL">🤏 Other reinforcement learning method</a></li>
