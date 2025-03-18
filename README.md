@@ -18,7 +18,7 @@
         <li><a href="#Based On DPO">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
         <li><a href="#Based On PPO">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
         <li><a href="#Based On RLHF">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
-        <li><a href="#Others">🤏 Other reinforcement learning method</a></li>
+        <li><a href="#Others-RL">🤏 Other reinforcement learning method</a></li>
       </ul>
     </li>
   </ol>
@@ -131,7 +131,7 @@
 
     *Avinash Anand, Kritarth Prasad, Chhavi Kirtani, Ashwin R Nair, Mohit Gupta, Saloni Garg, Anurag Gautam, Snehal Buldeo, Rajiv Ratn Shah.*
 
-### Others
+### Others-RL
 1. **[Distributionally Robust Optimization.](https://arxiv.org/abs/2411.02549)**
 
     *Daniel Kuhn, Soroosh Shafiee, Wolfram Wiesemann.*
