@@ -26,38 +26,15 @@
 
 ## Multi-modality COT Reasoning
 
-### 2024
-
-1. **[Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/abs/2403.16999)**
-
-    *Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li.*
-
-2. **[Multimodal Chain-of-Thought Reasoning in Language Models.](https://arxiv.org/pdf/2302.00923)**
-
-    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.*
-
-3. **[Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models.](https://arxiv.org/abs/2406.09403)**
-
-    *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Ranjay Krishna*
-
-### 2025
-
-1. **[Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search.](https://arxiv.org/abs/2502.02508)**
-
-    *Maohao Shen, Guangtao Zeng, Zhenting Qi, Zhang-Wei Hong, Zhenfang Chen, Wei Lu, Gregory Wornell, Subhro Das, David Cox, Chuang Gan.*
-2. **[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought.](https://arxiv.org/abs/2501.07542)** 
-
-    *Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulic´, Furu Wei*
-
-### 🔗Others
-
-1. **[AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO.](https://arxiv.org/abs/2502.14669)**
-
-    *Alan Dao (Gia Tuan Dao), Dinh Bach Vu1.*
-
-2. **[VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING.](https://arxiv.org/abs/2503.00043)** 
-
-    *Nilay Yilmaz, Maitreya Patel, Yiran Lawrence Luo, Tejas Gokhale, Chitta Baral, Suren Jayasuriya, Yezhou Yang*
+| Title                                                                                                                                                               | Venue |    Date    |                        Code                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:---------------------------------------------------:|
+| [**Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) | arXiv | 2024-03-16 |  [GitHub](https://github.com/deepcs233/Visual-CoT)  |
+| [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2403.16999)                                                                    | arXiv | 2024-05-20 | [GitHub](https://github.com/amazon-science/mm-cot/) |
+| [**Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403)                                     | arXiv | 2024-06-09 |    [GitHub](https://visualsketchpad.github.io/)     |
+| [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542)                                                       | arXiv | 2025-01-07 |                          -                          |
+| [**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**](https://arxiv.org/abs/2502.02508)                | arXiv | 2025-02-02 |    [GitHub](https://satori-reasoning.github.io/)    |
+| [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**](https://arxiv.org/abs/2502.14669)                                                   | arXiv | 2025-02-14 |                          -                          |
+| [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |     [GitHub](https://github.com/nlylmz/Voila/)      |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -66,17 +43,12 @@
 </p>
 
 ## Benchmarks
-1. **[MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions.](https://arxiv.org/abs/2503.09499)**
 
-    *Zhe Xu, Daoyuan Chen, Zhenqing Ling, Yaliang Li, Ying Shen.*
-
-2. **[MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models.](https://arxiv.org/abs/2502.00698v1)** 
-
-    *Huanqia Cai, Yijun Yang, Winston Hu*
-
-3. **[VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity.](https://arxiv.org/abs/2503.11557v1)** 
-
-    *Jing Bi, Junjia Guo, Susan Liang, Guangyu Sun, Luchuan Song, Yunlong Tang, Jinxi He, Jiarui Wu, Ali Vosoughi, Chen Chen, Chenliang Xu*
+| Title                                                                                                                                             | Venue |    Date    |                               Code                                |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:-----------------------------------------------------------------:|
+| [**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**](https://arxiv.org/abs/2503.09499)                        | arXiv | 2025-03-12 | [GitHub]( https://github.com/modelscope/datajuicer/tree/MindGYM/) |
+| [**MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**](https://arxiv.org/abs/2502.00698v1)                           | arXiv | 2025-02-02 |       [Homepage](https://acechq.github.io/MMIQ-benchmark/)        |
+| [**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**](https://arxiv.org/abs/2503.11557v1) | arXiv | 2025-03-14 |           [ProjectPage](https://verify-eqh.pages.dev/)            |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -84,61 +56,41 @@
     </a>
 </p>
 
-
-
 ## Reinforce Learn
+
 ### 🔤Based On DPO
-1. **[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor.](https://arxiv.org/pdf/1801.01290)**
 
-    *Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine.*
-2. **[Accelerated Preference Optimization for Large Language Model Alignment.](https://arxiv.org/abs/2410.06293v1)**
-
-    *Jiafan He, Huizhuo Yuan, Quanquan Gu.*
-3. **[Gradient Imbalance in Direct Preference Optimization.](https://arxiv.org/abs/2502.20847v1)**
-
-    *Qinwei Ma, Jingzhe Shi, Can Jin, Jenq-Neng Hwang, Serge Belongie, Lei Li.*
-4. **[MPPO: Multi Pair-wise Preference Optimization for LLMs with Arbitrary Negative Samples.](https://arxiv.org/abs/2412.15244v1)**
-
-    *Shuo Xie, Fangzhi Zhu, Jiahui Wang, Lulu Wen, Wei Dai, Xiaowei Chen, Junxiong Zhu, Kai Zhou, Bo Zheng.*
-5. **[Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization.](https://arxiv.org/abs/2412.18279v1)**
-
-    *Jiacai Liu, Chaojie Wang, Chris Yuhao Liu, Liang Zeng, Rui Yan, Yiwen Sun, Yang Liu, Yahui Zhou.*
+| Title                                                                                                                                                 | Venue |    Date    | Code |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----:|
+| [**Accelerated Preference Optimization for Large Language Model Alignment**](https://arxiv.org/abs/2410.06293v1)                                      | arXiv | 2024-10-08 |  -   |
+| [**MPPO: Multi Pair-wise Preference Optimization for LLMs with Arbitrary Negative Samples**](https://arxiv.org/abs/2412.15244v1)                      | arXiv | 2024-12-13 |  -   |
+| [**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**](https://arxiv.org/abs/2412.18279v1) | arXiv | 2024-12-24 |  -   |
+| [**Gradient Imbalance in Direct Preference Optimization**](https://arxiv.org/abs/2502.20847v1)                                                        | arXiv | 2025-02-28 |  -   |
 
 ### 🧠Based On PPO
-1. **[Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward.](https://arxiv.org/abs/2411.15247v1)**
 
-    *Zhiwei Jia, Yuesong Nan, Huixi Zhao, Gengdai Liu.*
-2. **[Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step.](https://arxiv.org/abs/2501.13926)**
-
-    *Ziyu Guo, Renrui Zhang, Chengzhuo Tong, Zhizheng Zhao, Peng Gao, Hongsheng Li, Pheng-Ann Heng.*
-3. **[Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance.](https://arxiv.org/abs/2502.16944v1)**
-
-    *Chenghua Huang, Lu Wang, Fangkai Yang, Pu Zhao, Zhixu Li, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang.*
-4. **[Q♯: Provably Optimal Distributional RL for LLM Post-Training.](https://arxiv.org/abs/2502.20548v1)**
-
-    *Jin Peng Zhou, Kaiwen Wang, Jonathan Chang4, Zhaolin Gao, Nathan Kallus, Kilian Q. Weinberger, Kianté Brantley, Wen Sun.*
-5. **[Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization.](https://arxiv.org/abs/2410.09302v2)**
-
-    *Kaixuan Ji, Guanlin Liu, Ning Dai, Qingping Yang, Renjie Zheng, Zheng Wu, Chen Dun, Quanquan Gu, Lin Yan.*
+| Title                                                                                                                                            | Venue |    Date    |                            Code                             |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:-----------------------------------------------------------:|
+| [**Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward**](https://arxiv.org/abs/2411.15247v1) | arXiv | 2024-11-22 |                              -                              |
+| [**Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step**](https://arxiv.org/abs/2501.13926)                | arXiv | 2025-01-23 | [GitHub](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
+| [**Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization**](https://arxiv.org/abs/2410.09302v2)     | arXiv | 2025-02-11 |                              -                              |
+| [**Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance**](https://arxiv.org/abs/2502.16944v1)                          | arXiv | 2025-02-24 |                              -                              |
+| [**Q♯: Provably Optimal Distributional RL for LLM Post-Training**](https://arxiv.org/abs/2502.20548v1)                                           | arXiv | 2025-02-27 |         [GitHub](https://github.com/jinpz/q_sharp)          |
 
 ### 🤏Based On RLHF
-1. **[RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation.](https://arxiv.org/abs/2503.09499)**
 
-    *Kaiqu Liang, Haimin Hu, Ryan Liu, Thomas L. Griffiths, Jaime Fernández Fisac.*
-2. **[Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback.](https://arxiv.org/abs/2412.06827v1)**
-
-    *Avinash Anand, Kritarth Prasad, Chhavi Kirtani, Ashwin R Nair, Mohit Gupta, Saloni Garg, Anurag Gautam, Snehal Buldeo, Rajiv Ratn Shah.*
+| Title                                                                                                                                    | Venue |    Date    | Code |
+|:-----------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----:|
+| [**Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback**](https://arxiv.org/abs/2412.06827v1) | arXiv | 2024-12-06 |  -   |
+| [**RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation**](https://arxiv.org/abs/2503.09499)                                  | arXiv | 2025-02-10 |  -   |
 
 ### 🔗Others-RL
-1. **[Distributionally Robust Optimization.](https://arxiv.org/abs/2411.02549)**
 
-    *Daniel Kuhn, Soroosh Shafiee, Wolfram Wiesemann.*
-2. **[Continual SFT Matches Multimodal RLHF with Negative Supervision.](https://arxiv.org/abs/2411.14797v1)**
-
-    *Ke Zhu, Yu Wang, Yanpeng Sun, Qiang Chen, Jiangjiang Liu, Gang Zhang, Jingdong Wang.*
-3. **[Fast Best-of-N Decoding via Speculative Rejection.](https://arxiv.org/abs/2410.20290v2)**
-
-    *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter L. Bartlett, Andrea Zanette.*
+| Title                                                                                                     | Venue |    Date    |                              Code                              |
+|:----------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------------------------:|
+| [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)               | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) |
+| [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                              | arXiv | 2024-11-04 |                               -                                |
+| [**Continual SFT Matches Multimodal RLHF with Negative Supervision**](https://arxiv.org/abs/2411.14797v1) | arXiv | 2024-11-22 |                               -                                |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
