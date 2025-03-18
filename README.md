@@ -13,7 +13,7 @@
   <ol>
     <li><a href="#Multi-modality COT Reasoning">Multi-modality COT Reasoning</a></li>
     <li><a href="#Benchmarks">Benchmarks</a></li>
-    <li><a href="#Reinforce Learn">Reinforce Learning</a>
+    <li><a href="#Reinforce-Learn">Reinforce Learning</a>
       <ul>
         <li><a href="#based-on-dpo">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-ppo">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
