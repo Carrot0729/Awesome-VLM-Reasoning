@@ -141,3 +141,9 @@
 3. **[Fast Best-of-N Decoding via Speculative Rejection.](https://arxiv.org/abs/2410.20290v2)**
 
     *Hanshi Sun, Momin Haider, Ruiqi Zhang, Huitao Yang, Jiahao Qiu, Ming Yin, Mengdi Wang, Peter L. Bartlett, Andrea Zanette.*
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
