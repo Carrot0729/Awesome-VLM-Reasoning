@@ -40,16 +40,14 @@
 
     *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Ranjay Krishna*
 
-4. **[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought.](https://arxiv.org/abs/2501.07542)** 
-
-    *Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulic´, Furu Wei*
-
 ### 2025
 
 1. **[Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search.](https://arxiv.org/abs/2502.02508)**
 
     *Maohao Shen, Guangtao Zeng, Zhenting Qi, Zhang-Wei Hong, Zhenfang Chen, Wei Lu, Gregory Wornell, Subhro Das, David Cox, Chuang Gan.*
+2. **[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought.](https://arxiv.org/abs/2501.07542)** 
 
+    *Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulic´, Furu Wei*
 
 ### 🔗Others
 
