@@ -18,7 +18,7 @@
         <li><a href="#based-on-dpo">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-ppo">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-rlhf">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
-        <li><a href="#others-rl">🤏 Other reinforcement learning method</a></li>
+        <li><a href="#others-rl">🔗 Other reinforcement learning methods</a></li>
       </ul>
     </li>
   </ol>
@@ -51,7 +51,7 @@
     *Maohao Shen, Guangtao Zeng, Zhenting Qi, Zhang-Wei Hong, Zhenfang Chen, Wei Lu, Gregory Wornell, Subhro Das, David Cox, Chuang Gan.*
 
 
-### Others
+### 🔗Others
 
 1. **[AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO.](https://arxiv.org/abs/2502.14669)**
 
@@ -89,7 +89,7 @@
 
 
 ## Reinforce Learn
-### Based On DPO
+### 🔤Based On DPO
 1. **[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor.](https://arxiv.org/pdf/1801.01290)**
 
     *Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine.*
@@ -106,7 +106,7 @@
 
     *Jiacai Liu, Chaojie Wang, Chris Yuhao Liu, Liang Zeng, Rui Yan, Yiwen Sun, Yang Liu, Yahui Zhou.*
 
-### Based On PPO
+### 🧠Based On PPO
 1. **[Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward.](https://arxiv.org/abs/2411.15247v1)**
 
     *Zhiwei Jia, Yuesong Nan, Huixi Zhao, Gengdai Liu.*
@@ -123,7 +123,7 @@
 
     *Kaixuan Ji, Guanlin Liu, Ning Dai, Qingping Yang, Renjie Zheng, Zheng Wu, Chen Dun, Quanquan Gu, Lin Yan.*
 
-### Based On RLHF
+### 🤏Based On RLHF
 1. **[RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation.](https://arxiv.org/abs/2503.09499)**
 
     *Kaiqu Liang, Haimin Hu, Ryan Liu, Thomas L. Griffiths, Jaime Fernández Fisac.*
@@ -131,7 +131,7 @@
 
     *Avinash Anand, Kritarth Prasad, Chhavi Kirtani, Ashwin R Nair, Mohit Gupta, Saloni Garg, Anurag Gautam, Snehal Buldeo, Rajiv Ratn Shah.*
 
-### Others-RL
+### 🔗Others-RL
 1. **[Distributionally Robust Optimization.](https://arxiv.org/abs/2411.02549)**
 
     *Daniel Kuhn, Soroosh Shafiee, Wolfram Wiesemann.*
