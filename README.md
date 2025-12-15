@@ -90,8 +90,8 @@
 
 | Title                                                                                                                             | Venue |    Date    |                     Code                     |                                         Starts                                          |
 |:----------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------:|:---------------------------------------------------------------------------------------:|
-| [**VideoSSR: Video Self-Supervised Reinforcement Learning**](https://arxiv.org/html/2511.13054v1)                                 | arXiv | 2025-11-13 | [GitHub](https://github.com/lcqysl/VideoSSR) | ⭐![GitHub Repo stars](https://img.shields.io/github/stars/lcqysl/VideoSSR?style=social) |
-| [**A Stitch in Time: Learning Procedural Workflow via Self-Supervised  Plackett–Luce Ranking**](https://arxiv.org/pdf/2511.17805) | arXiv | 2025-11-17 |                      -                       |                                            -                                            |
+| [**VideoSSR: Video Self-Supervised Reinforcement Learning**](https://arxiv.org/abs/2511.06281)                                    | arXiv | 2025-11-06 | [GitHub](https://github.com/lcqysl/VideoSSR) | ⭐![GitHub Repo stars](https://img.shields.io/github/stars/lcqysl/VideoSSR?style=social) |
+| [**ViSS-R1: Self-Supervised Reinforcement Video Reasoning**](https://arxiv.org/html/2511.13054v1)                                 | arXiv | 2025-11-13 |                      -                       |                                            -                                            |
 | [**A Stitch in Time: Learning Procedural Workflow via Self-Supervised  Plackett–Luce Ranking**](https://arxiv.org/pdf/2511.17805) | arXiv | 2025-11-17 |                      -                       |                                            -                                            |
 
 ### 🔗Others-RL
