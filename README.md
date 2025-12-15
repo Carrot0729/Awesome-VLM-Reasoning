@@ -18,7 +18,9 @@
         <li><a href="#based-on-dpo">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-ppo">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-rlhf">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
+        <li><a href="#introducing-additional-joint-tasks">🤏Introducing <em>additional joint </em>tasks</a></li>
         <li><a href="#others-rl">🔗 Other reinforcement learning methods</a></li>
+        <li><a href="#other-interesting-vision-reasoning-paper">😄Other Interesting Vision Reasoning Paper</a></li>
       </ul>
     </li>
   </ol>
@@ -26,15 +28,15 @@
 
 ## Multi-modality COT Reasoning
 
-| Title                                                                                                                                                               | Venue |    Date    |                        Code                         |                              Starts                               |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:---------------------------------------------------:|:-----------------------------------------------------------------:| 
-| [**Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) | arXiv | 2024-03-16 |  [GitHub](https://github.com/deepcs233/Visual-CoT)  |  ⭐![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=social)  |
-| [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2403.16999)                                                                    | arXiv | 2024-05-20 | [GitHub](https://github.com/amazon-science/mm-cot/) | ⭐ ![GitHub Repo stars](https://github.com/amazon-science/mm-cot/) |
-| [**Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403)                                     | arXiv | 2024-06-09 |    [GitHub](https://visualsketchpad.github.io/)     |    ⭐ ![GitHub Repo stars](https://visualsketchpad.github.io/)     |
-| [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought **](https://arxiv.org/abs/2501.07542)                                                      | arXiv | 2025-01-07 |                          -                          |                                 -                                 |
-| [**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**](https://arxiv.org/abs/2502.02508)                | arXiv | 2025-02-02 |    [GitHub](https://satori-reasoning.github.io/)    |    ⭐ ![GitHub Repo stars](https://satori-reasoning.github.io/)    |
-| [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO **](https://arxiv.org/abs/2502.14669)                                                  | arXiv | 2025-02-14 |                          -                          |                                 -                                 |
-| [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |     [GitHub](https://github.com/nlylmz/Voila/)      |     ⭐ ![GitHub Repo stars](https://github.com/nlylmz/Voila/)      |
+| Title                                                                                                                                                               | Venue |    Date    |                        Code                         |                                            Starts                                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:---------------------------------------------------:|:--------------------------------------------------------------------------------------------:| 
+| [**Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) | arXiv | 2024-03-16 |  [GitHub](https://github.com/deepcs233/Visual-CoT)  | ⭐![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=social) |
+| [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2403.16999)                                                                    | arXiv | 2024-05-20 | [GitHub](https://github.com/amazon-science/mm-cot/) |              ⭐ ![GitHub Repo stars](https://github.com/amazon-science/mm-cot/)               |
+| [**Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403)                                     | arXiv | 2024-06-09 |    [GitHub](https://visualsketchpad.github.io/)     |                  ⭐ ![GitHub Repo stars](https://visualsketchpad.github.io/)                  |
+| [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought **](https://arxiv.org/abs/2501.07542)                                                      | arXiv | 2025-01-07 |                          -                          |                                              -                                               |
+| [**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**](https://arxiv.org/abs/2502.02508)                | arXiv | 2025-02-02 |    [GitHub](https://satori-reasoning.github.io/)    |                 ⭐ ![GitHub Repo stars](https://satori-reasoning.github.io/)                  |
+| [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO **](https://arxiv.org/abs/2502.14669)                                                  | arXiv | 2025-02-14 |                          -                          |                                              -                                               |
+| [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |     [GitHub](https://github.com/nlylmz/Voila/)      |                   ⭐ ![GitHub Repo stars](https://github.com/nlylmz/Voila/)                   |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -84,6 +86,14 @@
 | [**Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback**](https://arxiv.org/abs/2412.06827v1) | arXiv | 2024-12-06 |  -   |
 | [**RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation**](https://arxiv.org/abs/2503.09499)                                  | arXiv | 2025-02-10 |  -   |
 
+### 🤏Introducing additional joint tasks
+
+| Title                                                                                                                             | Venue |    Date    |                     Code                     |                                         Starts                                          |
+|:----------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| [**VideoSSR: Video Self-Supervised Reinforcement Learning**](https://arxiv.org/html/2511.13054v1)                                 | arXiv | 2025-11-13 | [GitHub](https://github.com/lcqysl/VideoSSR) | ⭐![GitHub Repo stars](https://img.shields.io/github/stars/lcqysl/VideoSSR?style=social) |
+| [**A Stitch in Time: Learning Procedural Workflow via Self-Supervised  Plackett–Luce Ranking**](https://arxiv.org/pdf/2511.17805) | arXiv | 2025-11-17 |                      -                       |                                            -                                            |
+| [**A Stitch in Time: Learning Procedural Workflow via Self-Supervised  Plackett–Luce Ranking**](https://arxiv.org/pdf/2511.17805) | arXiv | 2025-11-17 |                      -                       |                                            -                                            |
+
 ### 🔗Others-RL
 
 | Title                                                                                                     | Venue |    Date    |                              Code                              |
@@ -91,6 +101,12 @@
 | [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)               | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) |
 | [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                              | arXiv | 2024-11-04 |                               -                                |
 | [**Continual SFT Matches Multimodal RLHF with Negative Supervision**](https://arxiv.org/abs/2411.14797v1) | arXiv | 2024-11-22 |                               -                                |
+
+### 😄Other-Interesting-Vision-Reasoning-Paper
+
+| Title                                                            | Venue |    Date    | Code |
+|:-----------------------------------------------------------------|:-----:|:----------:|:----:|
+| [**ARC Is a Vision Problem!**](https://arxiv.org/abs/2511.14761) | arXiv | 2025-11-14 |  -   |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
